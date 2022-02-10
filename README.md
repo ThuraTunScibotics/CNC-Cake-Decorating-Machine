@@ -32,6 +32,6 @@ First, sketch the picture in the Inkscape software and save as G code. Second, u
 
 <img src="images/img4.jpg">
 
-# Thanks for enjoying our project!
+# Thanks for enjoying the project!
 
 !!! The resources I provided in this repo is some of the resources in my laptop. Not all the materials required for this project, there are just some of the materials.
