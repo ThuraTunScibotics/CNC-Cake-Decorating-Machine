@@ -7,7 +7,7 @@ We divided "Design team" and "Control team" with 5 members for each team. I lead
 <img src="images/vinyl.PNG">
 
 ## Hardware, Software and Library we used:
-* Hardware: Arduino Uno, CNC shield V3, Nema-17 stepper motors, A4988 stepper driver, SG90 Servo motor
+* Hardware: Arduino Uno, CNC shield V3, Nema-17 stepper motors, A4988 stepper driver, SG90 Servo motor, 12V Power supply
 * Software: Arduino IDE, Inkscape, GRBL Control 
 
 ## Operation Process/Control Procedure
