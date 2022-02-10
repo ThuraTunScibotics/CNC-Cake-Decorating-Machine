@@ -36,4 +36,4 @@ First, sketch the picture in the Inkscape software and save as G code. Second, u
 
 # Thanks for enjoying this project!
 
-!!! The resources/materials I provided in this repo is some of the resources in my laptop. The resources/materials in this repo is nott all the materials of this project, there are just some of the materials.
+!!! The resources/materials I provided in this repo is some of the resources in my laptop. The resources/materials in this repo is not all the materials of this project, there are just some of the materials.
