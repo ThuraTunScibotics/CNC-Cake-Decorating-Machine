@@ -12,7 +12,7 @@ We divided "Design team" and "Control team" with 5 members for each team. I lead
 
 ## Aim and Objectives
 * To decorate the plain cake
-* To innovate the machine that can be used in real world bussiness
+* To innovate the machine that can be used in real world business
 * To improve the scope of CNC based products
 
 ## Operation Process/Control Procedure
